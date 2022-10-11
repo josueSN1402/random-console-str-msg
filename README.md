@@ -1,0 +1,1 @@
+# random-console-str-msg
